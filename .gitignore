@@ -1,0 +1,3 @@
+*.buildinfo
+horserace/Debug/horserace.ino.elf
+*.hex
